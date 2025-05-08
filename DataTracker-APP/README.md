@@ -31,6 +31,9 @@ The dashboard offers:
    ```bash
    git clone https://github.com/Kabuna254/Data-Tracker.git
    cd DataTracker-APP
++ Extracting Compressed Files
+This project includes compressed data files to reduce repository size.
+After cloning the repository, please **unzip** the required files:
 
 2. **Install dependencies**
 pip install -r requirements.txt
